@@ -1,2 +1,4 @@
-# Distributed-VAE-Trainer
+# Distributed VAE Trainer
+
 PyTorch implementation of Distributed VAE Trainer.
+
